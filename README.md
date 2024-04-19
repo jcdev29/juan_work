@@ -1,6 +1,6 @@
 # juan_work
 
-A new Flutter project.
+A simple posting app with firebase.
 
 ## Getting Started
 
