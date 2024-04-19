@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "271107863699",
+    "project_id": "db-juan-work",
+    "storage_bucket": "db-juan-work.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271107863699:android:1e38d6f4b7b38175094966",
+        "android_client_info": {
+          "package_name": "com.example.juan_work"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6yStpOXZp4ZWA6-dwTxPnly8i9_LW24o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
